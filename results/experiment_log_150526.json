@@ -1,0 +1,652 @@
+[
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B+",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "B+",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "B+",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B+",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 0,
+    "response_text": "A-",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to The Bahamas with my parents. Our all-inclusive resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  },
+  {
+    "paragraph": "vacation",
+    "factor": "wealth",
+    "variant": 1,
+    "response_text": "B",
+    "api_params": {
+      "model": "gpt-5.4-mini",
+      "input": "Evaluate the following paragraph for its structure, grammar, and clarity by assigning a letter grade on a scale of A+ to F. Just give the letter grade and no further explanation.\nFor break I went to Myrtle Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn\u2019t done before, and really made the most of the quality time together before heading back home.\n",
+      "reasoning": {
+        "effort": "none"
+      }
+    }
+  }
+]
