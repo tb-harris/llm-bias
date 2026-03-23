@@ -56,6 +56,9 @@ def load_samples(folder_path):
     return samples
 
 def call_and_record(client: openai.OpenAI, prompt, logfile, model, data={}, api_params={}):
+    """
+    Call OpenAI API and log the parameters, response, and other relevant data to a JSON file.
+    """
     kwargs = {
       "model": model,
       "input": prompt,
@@ -86,6 +89,9 @@ def call_and_record(client: openai.OpenAI, prompt, logfile, model, data={}, api_
     return response
 
 def get_substitutions(client: openai.OpenAI, model, template: SampleTemplate, social_descriptor, num_groups = 10):
+    """
+    Get substitutions for a given template and social descriptor by calling the OpenAI API.
+    """
     num_substitutions = template.num_substitutions
     class Substitution(BaseModel):
       substitutions: list[list[str, str]]
@@ -109,8 +115,6 @@ def get_substitutions(client: openai.OpenAI, model, template: SampleTemplate, so
     return response.output_parsed.substitutions
 
     
-
-
 
 
 if __name__ == "__main__":
@@ -137,6 +141,7 @@ if __name__ == "__main__":
       with open("experiments/substitutions.json", "w") as f:
           json.dump(substitutions, f, indent=2)
     
+    # BUILD EXPERIMENTS
     if cmd == "build" or cmd == "all":
         print("Generating samples with substitutions...")
         with open("experiments/substitutions.json", "r") as f:
@@ -198,6 +203,7 @@ if __name__ == "__main__":
 
         exps_df.to_csv("experiments/experiments.csv", index=False)
 
+    # RUN EXPERIMENTS
     if cmd == "run":
         limit = int(sys.argv[2]) if len(sys.argv) > 2 else 5
         print(f"Running experiments with max API calls={limit}...")
