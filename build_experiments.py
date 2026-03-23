@@ -1,3 +1,7 @@
+'''
+Code is my own with some auto-completions from GitHub Copilot.
+'''
+
 import os
 import json
 import sys
@@ -190,6 +194,8 @@ if __name__ == "__main__":
                     experiments.append({
                         "template_name": entry["template_name"],
                         "social_descriptor": entry["social_descriptor"],
+                        "substitution1": entry["substitutions"][0],
+                        "substitution2": entry["substitutions"][1],
                         "prompting_treatment": treatment_name,
                         "trial": trial,
                         "prompt": treatment["prompt_start"] + "\n\n" + entry["text"],
@@ -222,6 +228,8 @@ if __name__ == "__main__":
                 data={
                     "template_name": row["template_name"],
                     "social_descriptor": row["social_descriptor"],
+                    "substitution1": row["substitution1"],
+                    "substitution2": row["substitution2"], 
                     "prompting_treatment": row["prompting_treatment"],
                     "trial": row["trial"],
                 },
