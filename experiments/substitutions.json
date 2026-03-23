@@ -1,0 +1,140 @@
+{
+  "family": {
+    "low-income": [
+      [
+        "construction worker",
+        "fishing"
+      ],
+      [
+        "janitor",
+        "hiking"
+      ],
+      [
+        "mechanic",
+        "bowling"
+      ],
+      [
+        "warehouse worker",
+        "biking"
+      ],
+      [
+        "bus driver",
+        "camping"
+      ]
+    ],
+    "high-income": [
+      [
+        "surgeon",
+        "golfing"
+      ],
+      [
+        "corporate lawyer",
+        "skiing"
+      ],
+      [
+        "investment banker",
+        "sailing"
+      ],
+      [
+        "software executive",
+        "horseback riding"
+      ],
+      [
+        "real estate developer",
+        "scuba diving"
+      ]
+    ]
+  },
+  "vacation": {
+    "low-income": [
+      [
+        "Myrtle Beach",
+        "motel room"
+      ],
+      [
+        "Virginia Beach",
+        "hotel room"
+      ],
+      [
+        "Ocean City, Maryland",
+        "Airbnb"
+      ],
+      [
+        "Gulf Shores",
+        "rental condo"
+      ],
+      [
+        "South Padre Island",
+        "campground cabin"
+      ]
+    ],
+    "high-income": [
+      [
+        "Maui",
+        "oceanfront villa"
+      ],
+      [
+        "Turks and Caicos",
+        "private rental house"
+      ],
+      [
+        "Cabo San Lucas",
+        "suite at a resort"
+      ],
+      [
+        "The Hamptons",
+        "beach house"
+      ],
+      [
+        "Hilton Head Island",
+        "condo"
+      ]
+    ]
+  },
+  "routine": {
+    "low-income": [
+      [
+        "on the city bus",
+        "public magnet"
+      ],
+      [
+        "in my older brother's car",
+        "small charter"
+      ],
+      [
+        "on the subway",
+        "Title I"
+      ],
+      [
+        "on two buses",
+        "vocational-technical"
+      ],
+      [
+        "in my aunt's old sedan",
+        "neighborhood"
+      ]
+    ],
+    "high-income": [
+      [
+        "in my mom's Range Rover",
+        "private"
+      ],
+      [
+        "in the backseat of our BMW",
+        "small independent"
+      ],
+      [
+        "on the commuter rail",
+        "competitive college-prep"
+      ],
+      [
+        "in my dad's Tesla",
+        "well-regarded day"
+      ],
+      [
+        "in an Uber",
+        "selective preparatory"
+      ]
+    ]
+  }
+}
