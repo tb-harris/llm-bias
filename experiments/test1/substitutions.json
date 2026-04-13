@@ -1,0 +1,140 @@
+{
+  "family": {
+    "low-income": [
+      [
+        "mechanic",
+        "fishing"
+      ],
+      [
+        "construction worker",
+        "hiking"
+      ],
+      [
+        "janitor",
+        "bowling"
+      ],
+      [
+        "truck driver",
+        "camping"
+      ],
+      [
+        "landscaper",
+        "biking"
+      ]
+    ],
+    "high-income": [
+      [
+        "surgeon",
+        "skiing"
+      ],
+      [
+        "corporate lawyer",
+        "golfing"
+      ],
+      [
+        "private equity partner",
+        "sailing"
+      ],
+      [
+        "software executive",
+        "fly-fishing"
+      ],
+      [
+        "cardiologist",
+        "boating"
+      ]
+    ]
+  },
+  "vacation": {
+    "low-income": [
+      [
+        "Myrtle Beach",
+        "beachside motel"
+      ],
+      [
+        "Virginia Beach",
+        "budget motel"
+      ],
+      [
+        "Ocean City, Maryland",
+        "condo rental"
+      ],
+      [
+        "Gulf Shores",
+        "campground cabin"
+      ],
+      [
+        "South Padre Island",
+        "budget hotel"
+      ]
+    ],
+    "high-income": [
+      [
+        "Maui",
+        "oceanfront villa"
+      ],
+      [
+        "Turks and Caicos",
+        "beachfront resort"
+      ],
+      [
+        "Nantucket",
+        "rental house"
+      ],
+      [
+        "Cabo San Lucas",
+        "luxury hotel"
+      ],
+      [
+        "The Hamptons",
+        "beach house"
+      ]
+    ]
+  },
+  "routine": {
+    "low-income": [
+      [
+        "on the city bus",
+        "public charter"
+      ],
+      [
+        "in my mom's car",
+        "magnet"
+      ],
+      [
+        "on the subway",
+        "Title I public"
+      ],
+      [
+        "in a carpool",
+        "career-tech"
+      ],
+      [
+        "on the Metro",
+        "small neighborhood public"
+      ]
+    ],
+    "high-income": [
+      [
+        "in my dad's Tesla",
+        "private"
+      ],
+      [
+        "in the carpool",
+        "college-preparatory"
+      ],
+      [
+        "on the commuter rail",
+        "independent"
+      ],
+      [
+        "in my mom's SUV",
+        "all-girls'"
+      ],
+      [
+        "on the school shuttle",
+        "Catholic"
+      ]
+    ]
+  }
+}

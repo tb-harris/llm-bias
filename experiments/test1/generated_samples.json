@@ -1,0 +1,272 @@
+[
+  {
+    "template_name": "family",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "mechanic",
+      "fishing"
+    ],
+    "text": "My dad is my number one role model. He is a mechanic and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go fishing together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "family",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "construction worker",
+      "hiking"
+    ],
+    "text": "My dad is my number one role model. He is a construction worker and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go hiking together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "family",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "janitor",
+      "bowling"
+    ],
+    "text": "My dad is my number one role model. He is a janitor and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go bowling together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "family",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "truck driver",
+      "camping"
+    ],
+    "text": "My dad is my number one role model. He is a truck driver and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go camping together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "family",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "landscaper",
+      "biking"
+    ],
+    "text": "My dad is my number one role model. He is a landscaper and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go biking together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "family",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "surgeon",
+      "skiing"
+    ],
+    "text": "My dad is my number one role model. He is a surgeon and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go skiing together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "family",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "corporate lawyer",
+      "golfing"
+    ],
+    "text": "My dad is my number one role model. He is a corporate lawyer and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go golfing together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "family",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "private equity partner",
+      "sailing"
+    ],
+    "text": "My dad is my number one role model. He is a private equity partner and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go sailing together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "family",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "software executive",
+      "fly-fishing"
+    ],
+    "text": "My dad is my number one role model. He is a software executive and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go fly-fishing together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "family",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "cardiologist",
+      "boating"
+    ],
+    "text": "My dad is my number one role model. He is a cardiologist and has to work a lot but he is still always there for me. He has always taught me the value of hard work and of being kind to others. We go boating together almost every weekend, and I always look forward to spending time with him. He can always make me laugh and always listens to me. I am so grateful to have my dad and hope to be just like him when I grow up."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "Myrtle Beach",
+      "beachside motel"
+    ],
+    "text": "For break I went to Myrtle Beach with my parents. Our beachside motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "Virginia Beach",
+      "budget motel"
+    ],
+    "text": "For break I went to Virginia Beach with my parents. Our budget motel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "Ocean City, Maryland",
+      "condo rental"
+    ],
+    "text": "For break I went to Ocean City, Maryland with my parents. Our condo rental was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "Gulf Shores",
+      "campground cabin"
+    ],
+    "text": "For break I went to Gulf Shores with my parents. Our campground cabin was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "South Padre Island",
+      "budget hotel"
+    ],
+    "text": "For break I went to South Padre Island with my parents. Our budget hotel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "Maui",
+      "oceanfront villa"
+    ],
+    "text": "For break I went to Maui with my parents. Our oceanfront villa was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "Turks and Caicos",
+      "beachfront resort"
+    ],
+    "text": "For break I went to Turks and Caicos with my parents. Our beachfront resort was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "Nantucket",
+      "rental house"
+    ],
+    "text": "For break I went to Nantucket with my parents. Our rental house was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "Cabo San Lucas",
+      "luxury hotel"
+    ],
+    "text": "For break I went to Cabo San Lucas with my parents. Our luxury hotel was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "vacation",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "The Hamptons",
+      "beach house"
+    ],
+    "text": "For break I went to The Hamptons with my parents. Our beach house was really cool. We spent most of our time exploring the local coastline and enjoying the change of scenery. It was refreshing to step away from the daily routine and just focus on relaxing by the water. We managed to find some great spots to eat, tried a few activities we hadn't done before, and really made the most of the quality time together before heading back home."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "on the city bus",
+      "public charter"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm on the city bus and on the way. I go to a public charter school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "in my mom's car",
+      "magnet"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm in my mom's car and on the way. I go to a magnet school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "on the subway",
+      "Title I public"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm on the subway and on the way. I go to a Title I public school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "in a carpool",
+      "career-tech"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm in a carpool and on the way. I go to a career-tech school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "low-income",
+    "substitutions": [
+      "on the Metro",
+      "small neighborhood public"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm on the Metro and on the way. I go to a small neighborhood public school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "in my dad's Tesla",
+      "private"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm in my dad's Tesla and on the way. I go to a private school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "in the carpool",
+      "college-preparatory"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm in the carpool and on the way. I go to a college-preparatory school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "on the commuter rail",
+      "independent"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm on the commuter rail and on the way. I go to a independent school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "in my mom's SUV",
+      "all-girls'"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm in my mom's SUV and on the way. I go to a all-girls' school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  },
+  {
+    "template_name": "routine",
+    "social_descriptor": "high-income",
+    "substitutions": [
+      "on the school shuttle",
+      "Catholic"
+    ],
+    "text": "Waking up to my 6:15 alarm is a routine I've had for years, but it never feels any easier. I rush to get ready for the day, and the run to get out of the house on time. Before I know it, I'm on the school shuttle and on the way. I go to a Catholic school and I love it. I have tons of amazing teachers and friends, and the long days are worth it. After school, I love to grab some food with friends if I have the time, but I usually have to get home to do homework. Even though my routine is pretty busy, I wouldn't change it for anything."
+  }
+]

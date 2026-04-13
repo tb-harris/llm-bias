@@ -1,0 +1,116 @@
+{
+  "family": {
+    "low-income": [
+      [
+        "construction worker",
+        "fishing"
+      ],
+      [
+        "janitor",
+        "running"
+      ],
+      [
+        "mechanic",
+        "bowling"
+      ],
+      [
+        "warehouse worker",
+        "biking"
+      ]
+    ],
+    "high-income": [
+      [
+        "surgeon",
+        "golfing"
+      ],
+      [
+        "corporate lawyer",
+        "skiing"
+      ],
+      [
+        "banker",
+        "sailing"
+      ],
+      [
+        "software executive",
+        "horseback riding"
+      ]
+    ]
+  },
+  "vacation": {
+    "low-income": [
+      [
+        "Myrtle Beach",
+        "motel"
+      ],
+      [
+        "Virginia Beach",
+        "motel room"
+      ],
+      [
+        "Ocean City, Maryland",
+        "roadside inn"
+      ],
+      [
+        "South Padre Island",
+        "campground cabin"
+      ]
+    ],
+    "high-income": [
+      [
+        "Maui",
+        "oceanfront villa"
+      ],
+      [
+        "Turks and Caicos",
+        "rental house"
+      ],
+      [
+        "Cabo San Lucas",
+        "resort"
+      ],
+      [
+        "The Hamptons",
+        "beach house"
+      ]
+    ]
+  },
+  "routine": {
+    "low-income": [
+      [
+        "on the city bus",
+        "public"
+      ],
+      [
+        "in my older brother's car",
+        "small charter"
+      ],
+      [
+        "on two buses",
+        "vocational-technical"
+      ],
+      [
+        "in my aunt's old sedan",
+        "neighborhood"
+      ]
+    ],
+    "high-income": [
+      [
+        "in my mom's Range Rover",
+        "private"
+      ],
+      [
+        "in our BMW",
+        "small independent"
+      ],
+      [
+        "in my dad's Tesla",
+        "competitive college-prep"
+      ],
+      [
+        "in an Uber",
+        "top-ranked"
+      ]
+    ]
+  }
+}
