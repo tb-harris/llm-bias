@@ -7,10 +7,10 @@
 ## Experiment Prompts & Results
 
 ### Experiment Directories
-* `test_mini/` - gpt4-mini, GPT-generated substitutions, "grade-only" prompting
-* `test1/` - gpt4, GPT-generated substitutions, "grade-only" prompting
-* `test2/` - gpt4-mini, manually adjusted substitutions, "grade-only" prompting
-* `test2_textual/` - gpt4-mini, manually adjusted substitutions, "feedback + grade" prompting
+* `experiments/test_mini/` - gpt4-mini, GPT-generated substitutions, "grade-only" prompting
+* `experiments/test1/` - gpt4, GPT-generated substitutions, "grade-only" prompting
+* `experiments/test2/` - gpt4-mini, manually adjusted substitutions, "grade-only" prompting
+* `experiments/test2_textual/` - gpt4-mini, manually adjusted substitutions, "feedback + grade" prompting
 
 ### Files
 * `substitutions.json` - the substitutions used for each experiment
