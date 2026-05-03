@@ -12,8 +12,6 @@ from collections import defaultdict
 import sys
 import pandas as pd
 
-__SUBSTITUTIONS_MODEL = "gpt-5.4-mini"
-
 '''
 Arguments:
 python3 build_experiments.py [command] [experiment_id] [optional: limit]
